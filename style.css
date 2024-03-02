@@ -1,0 +1,110 @@
+#div1 {
+
+    height: 100px;
+    width: 100px;
+    background-image: url("Logo_dark.png");
+    background-size: cover;
+    position: relative;
+    left: 50%;
+    
+    
+
+
+}
+
+
+
+body {
+
+    background-image: url("background_img.png");
+    background-size: cover;
+    text-align: center;
+    
+    
+}
+
+
+#box1 {
+     
+
+    left: 50%;
+    padding-top: 35px;
+    margin-top: 25px;
+    
+    
+}
+
+
+
+.box2 {
+
+    
+    height: 300px;
+    width: 450px;
+    background-color: white;
+    position: absolute;
+    left: 38%;
+    border-radius: 10%;
+    opacity: 0.5;
+   
+}
+
+.container {
+
+    position: relative;
+}
+
+
+#box3 {
+
+    padding-top: 20px;
+    margin-top: 15px;
+    
+}
+
+
+
+#box4 {
+
+    padding-top: 35px;
+
+    
+}
+
+
+#box5 {
+
+    padding-top: 45px;
+    
+   
+}
+
+
+
+h1 {
+
+    color: white;
+    font-weight: bold;
+
+}
+
+
+button {
+
+    font-size: larger;
+    color: white;
+    background-color:indigo;
+    width: 50%;
+    
+
+}
+
+
+ 
+
+
+
+
+
+
+
